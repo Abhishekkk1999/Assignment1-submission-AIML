@@ -1,0 +1,5 @@
+Machine learning is the art of science and programming computers to learn from data , I explain this with an example like in our day to day
+life we eat different things and we know which one is sweet and which is not sweet generally from our experience since childhood 
+we came across to differnt things like chocolate and assume fries so its our experience that increases with respect to time ,i.e.
+we gain data i.e with experiences in our mind and w.r.t time we develop accuracy with respect to that data or learn from that 
+data to recognize things thier prices etc. better.
